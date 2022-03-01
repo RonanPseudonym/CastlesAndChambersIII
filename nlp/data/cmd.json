@@ -1,0 +1,5 @@
+{
+    "{verb|look}" : "{noun|around}",
+    "{verb|go}"   : "{noun|*[tag:dir]}",
+    "{verb|take}" : "{noun $a|*[tag:item]}"
+}

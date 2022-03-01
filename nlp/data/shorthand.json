@@ -1,0 +1,11 @@
+{
+    "look": "{verb|look} {noun|around}",
+    "north": "{verb|go} {noun|north}",
+    "east": "{verb|go} {noun|east}",
+    "south": "{verb|go} {noun|south}",
+    "west": "{verb|go} {noun|west}",
+    "n": "{verb|go} {noun|north}",
+    "e": "{verb|go} {noun|east}",
+    "s": "{verb|go} {noun|south}",
+    "w": "{verb|go} {noun|west}"
+}

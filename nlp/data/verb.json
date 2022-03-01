@@ -1,0 +1,12 @@
+{
+    "take": ["pick up",
+             "grab", 
+             "snatch", 
+             "nab", 
+             "get", 
+             "accept", 
+             "acquire"
+            ],
+    "look": ["view", "see"],
+    "go": ["move", "walk", "run"]
+}

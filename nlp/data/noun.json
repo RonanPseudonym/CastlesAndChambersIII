@@ -1,0 +1,7 @@
+{
+    "around": [],
+    "north":  ["n"],
+    "east":   ["e"],
+    "south":  ["s"],
+    "west":   ["w"]
+}
